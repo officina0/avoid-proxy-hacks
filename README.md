@@ -1,7 +1,7 @@
 
-# EXTERNAL DATA ON ETHEREUM
+# AVOID PROXY HACKS ON ETHEREUM
 
-This is a basilar example WITH NO SECURITY on how to avoid proxy hacks on solidity contract
+This is a basilar example WITH NOMUCH SECURITY on how to avoid proxy hacks on solidity contract
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ testrpc
 ### Check listen on event
 
 ```
-npm test
+tuffle test
 ```
 
 
